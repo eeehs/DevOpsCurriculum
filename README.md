@@ -10,7 +10,7 @@ Knowre의 신입 데브옵스 엔지니어 교육을 위한 데브옵스 교육�
 
 - [Quest 00. 데브옵스란 무엇인가](https://github.com/eeehs/DevOpsCurriculum/tree/main/Quest%2000.%20%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 - [Quest 01. 리눅스와 친해지기](https://github.com/eeehs/DevOpsCurriculum/tree/main/Quest%2001.%20%EB%A6%AC%EB%88%85%EC%8A%A4%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0)
-- Quest 02. 프로그래밍의 기초
+- [Quest 02. 프로그래밍의 기초](https://github.com/eeehs/DevOpsCurriculum/tree/main/Quest%2003.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88)
 - Quest 03. 네트워크의 기초
 - Quest 04. 나의 첫 웹 서비스
 - Quest 05. 형상관리툴
